@@ -1,10 +1,3 @@
-TITLE Portfolio Assignment     (template.asm)
-
-; Author: Alex DeWald
-; Last Modified: 3-15-2020
-; OSU email address: dewalda@Oregonstate.edu
-; Course number/section: CS271-401
-; Project Number: Program #6               Due Date: 3-15-2020
 ; Description: Reads 10 signed integer strings from the user and converts each digit to numeric.
 ;	The converted numeric integers are then stored in an array. Then the sum and average of all
 ;	the numeric integers is calulcated and stored into a memory location. Finally, the entered 
